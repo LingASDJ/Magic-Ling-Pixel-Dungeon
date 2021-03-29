@@ -1,5 +1,8 @@
 #Magic Ling Pixel Dungeon
 ====================================================================
+源代码在Master标签里面！
+The source code is in the master tag!
+====================================================================
 欢迎你下载我的地牢源代码，它目前可能还存在很多问题，但是它是基于破碎0.8.1a的！
 
 关于彩色文本渲染，他们在RenderedTextBlock.java文件中，你可以去参考
@@ -16,7 +19,7 @@ About BGM, the game's BGM is quite many, therefore causes the game space to be q
 This source code complies with GPLv3 protocol
 
 ====================================================================
-Magic Ling Pixel Dungeon 制作组：
+Magic Ling - PD制作组：
 ====================================================================
 Main Code:JDSA Ling
 ====================================================================
