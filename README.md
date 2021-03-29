@@ -12,15 +12,16 @@ The source code is in the master tag!
 此源代码遵守GPLV3协议
 
 ====================================================================
-
-Welcome to download my dungeon source code, it may still have many problems, but it is based on broken 0.8.1a!
-For color text rendering, they are RenderedTextBlock.java In the document, you can refer to it
-About BGM, the game's BGM is quite many, therefore causes the game space to be quite big!!!
+Welcome to download my dungeon source code, it may still have many problems, 
+but it is based on broken 0.8.1a!
+For color text rendering, they are RenderedTextBlock.java In the document, 
+you can refer to it
+About BGM, the game's BGM is quite many, 
+therefore causes the game space to be quite big!!!
 This source code complies with GPLv3 protocol
-
-====================================================================
+=============================================
 Magic Ling - PD制作组：
-====================================================================
+============================================
 Main Code:JDSA Ling
 ====================================================================
 Assist in Code：Ren ‖ Alexstrasza
