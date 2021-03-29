@@ -1,7 +1,7 @@
 #Magic Ling Pixel Dungeon
 =================================
-源代码在Master标签里面！
-The source code is in the master tag!
+源代码在Master Branches 里面！
+The source code is in the master Branches!
 ==================================
 欢迎你下载我的地牢源代码，它目前可能还存在很多问题，但是它是基于破碎0.8.1a的！
 
