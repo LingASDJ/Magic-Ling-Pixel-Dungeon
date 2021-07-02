@@ -1,0 +1,37 @@
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        //FIXME the version of R8 coming with gradle plugin 4.0.0 causes serious problems
+        //noinspection GradleDependency
+        classpath 'com.android.tools.build:gradle:3.6.3'
+    }
+}
+
+allprojects {
+
+    ext {
+        appName = 'Magic Ling Pixel Dungeon'
+        appPackageName = 'com.MagicLing_Dungeon.cnDev'
+
+        appVersionCode = 4990
+        appVersionName = '0.4.8.4-HX1'
+
+        appJavaCompatibility = JavaVersion.VERSION_1_8
+
+        appAndroidCompileSDK = 30
+        appAndroidMinSDK = 14
+        appAndroidTargetSDK = 30
+
+        gdxVersion = '1.9.10'
+    }
+    version = appVersionName
+
+    repositories {
+        google()
+        jcenter()
+    }
+
+}

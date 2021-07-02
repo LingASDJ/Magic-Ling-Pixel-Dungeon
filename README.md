@@ -1,52 +1,19 @@
-#Magic Ling Pixel Dungeon
-=================================
-源代码在Master Branches 里面！
-The source code is in the master Branches!
-==================================
-欢迎你下载我的地牢源代码，它目前可能还存在很多问题，但是它是基于破碎0.8.1a的！
+# Shattered Pixel Dungeon
 
-关于彩色文本渲染，他们在RenderedTextBlock.java文件中，你可以去参考
+A Roguelike RPG, with randomly generated levels, items, enemies, and traps! Based on the [source code of Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), by [Watabou](https://www.watabou.ru).
 
-关于BGM，游戏的BGM比较多，所以导致游戏空间比较大！！！
+Shattered Pixel Dungeon currently compiles for Android and desktop platforms. It is available from [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases), [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), [Amazon](https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M), and [F-Droid](https://f-droid.org/repository/browse/?fdid=com.shatteredpixel.shatteredpixeldungeon).
 
-此源代码遵守GPLV3协议
+If you like this game, please consider [supporting me on Patreon](https://www.patreon.com/ShatteredPixel)!
 
-===================================
-Welcome to download my dungeon source code, 
-it may still have many problems, 
-but it is based on broken 0.8.1a!
-For color text rendering, they are RenderedTextBlock.java 
-In the document, you can refer to it
-About BGM, the game's BGM is quite many, 
-therefore causes the game space to be quite big!!!
-This source code complies with GPLv3 protocol
-=============================================
-Magic Ling - PD制作组：
-============================================
-Main Code:JDSA Ling
-====================================================================
-Assist in Code：Ren ‖ Alexstrasza
-====================================================================
-Android Studio Coding Guide:Alexstrasza
-====================================================================
-Sprites:奈亚子 ‖ 冷群怪 ‖ JDSA Ling ‖ Ren ‖ 龙蚊 
-====================================================================
-Smali Coding:Ren
-====================================================================
+There is an official blog for this project at [ShatteredPixel.com](http://www.shatteredpixel.com).
 
+The game also has a translation project hosted on [Transifex](https://www.transifex.com/shattered-pixel/shattered-pixel-dungeon/).
 
+Note that **this repository does not accept pull requests!** The code here is provided in hopes that others may find it useful for their own projects, not to allow community contribution. Issue reports of all kinds (bug reports, feature requests, etc.) are welcome.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+If you'd like to work with the code, you can find the following guides in `/docs`:
+- [Compiling for Android.](docs/getting-started-android.md)
+    - **[If you plan to distribute on Google Play please read the end of this guide.](docs/getting-started-android.md#distributing-your-apk)**
+- [Compiling for desktop platforms.](docs/getting-started-desktop.md)
+- [Recommended changes for making your own mod.](docs/recommended-changes.md)
